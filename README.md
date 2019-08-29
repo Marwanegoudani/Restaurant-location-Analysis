@@ -1,7 +1,7 @@
 # Restaurant-location-Analysis
 ## Introduction/Business Problem
 
-  One of the most commune and profitable businesses are Restaurants. In order to have a successful restaurant, one must choose the best location possible. Having a good menu and professional staff is important, but having a good location can give your business another push toward success.
+  One of the most common and profitable businesses are Restaurants. In order to have a successful restaurant, one must choose the best location possible. Having a good menu and professional staff is important, but having a good location can give your business another push toward success.
   
 ![alt text](https://cdnimg.webstaurantstore.com/uploads/buying_guide/2014/10/rla-waiter.jpg)
 
