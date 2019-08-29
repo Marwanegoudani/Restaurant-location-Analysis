@@ -40,4 +40,9 @@ The results were as follows.
 
 The red marks correspond to the best locations to open a restaurant.
 They are the neighborhoods that offer the best competition and thus a free marketing and an easy access.
+
+## Discussion 
 We notice that these locations are closer to the sea than the other, which is explained by the fact that the sea attracts more people and the neighborhoods that are close to it are the most crowded.
+
+## Conclusion 
+In conclusion, location analysis is not a simple task, It requires many data sources. This project could be extended to define restaurant types depending on the locations and the age of users, ut since we don't have access to such data we decided to focus on the competition criteria.
