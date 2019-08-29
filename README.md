@@ -35,7 +35,9 @@ We used KMeans in order to cluster the neighborhoods and determine the best neig
 
 ## Results 
 The results were as follows.
-![alt text](https://github.com/Marwanegoudani/Restaurant-location-Analysis/blob/master/example_data.png)
+
+![alt text](https://github.com/Marwanegoudani/Restaurant-location-Analysis/blob/master/toronto_best_locations_restaurant.png)
+
 The red marks correspond to the best locations to open a restaurant.
 They are the neighborhoods that offer the best competition and thus a free marketing and an easy access.
 We notice that these locations are closer to the sea than the other, which is explained by the fact that the sea attracts more people and the neighborhoods that are close to it are the most crowded.
