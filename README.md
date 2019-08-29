@@ -28,10 +28,10 @@
 This is an example of what could be exctracted from the Wikipedia page:
 
 Postcode	Borough	Neighbourhood
-0	M1B	Scarborough	Rouge,Malvern
-1	M1C	Scarborough	Highland Creek,Rouge Hill,Port Union
-2	M1E	Scarborough	Guildwood,Morningside,West Hill
-3	M1G	Scarborough	Woburn
-4	M1H	Scarborough	Cedarbrae
+0.	M1B	Scarborough	Rouge,Malvern
+1.	M1C	Scarborough	Highland Creek,Rouge Hill,Port Union
+2.	M1E	Scarborough	Guildwood,Morningside,West Hill
+3.	M1G	Scarborough	Woburn
+4.	M1H	Scarborough	Cedarbrae
 
 We will use this website (https://cocl.us/Geospatial_data) in order to extract geospatial data in order to explore the neighborhoods using Foursquare.
