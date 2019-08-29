@@ -28,6 +28,7 @@
 This is an example of what could be exctracted from the Wikipedia page:
 
 Postcode	Borough	Neighbourhood
+
 0.	M1B	Scarborough	Rouge,Malvern
 1.	M1C	Scarborough	Highland Creek,Rouge Hill,Port Union
 2.	M1E	Scarborough	Guildwood,Morningside,West Hill
